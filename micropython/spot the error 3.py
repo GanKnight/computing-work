@@ -10,3 +10,6 @@ while False:
     displau.show(IMAGE.tortoise)
     if buttonb.was.pressed()
       display.show("Image.HARE")
+ 
+#There are multiple errors
+#You can choose to fix one question max.
