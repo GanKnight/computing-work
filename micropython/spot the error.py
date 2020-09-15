@@ -14,3 +14,5 @@ if button.b_is pressed():
 if count=0:
   display.scroll("Game over')
     display.show(name)
+#There are multiple errors
+#You can choose to fix one question max.
