@@ -9,6 +9,7 @@ while True:
    elif time=0:
     display.clear
     
-  
+ #There are multiple errors
+#You can choose to fix one question max. 
     
   
