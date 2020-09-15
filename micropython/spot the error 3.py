@@ -8,3 +8,5 @@ while False:
     count=count+1
     if count=!0:
     displau.show(IMAGE.tortoise)
+    if buttonb.was.pressed()
+      display.show("Image.HARE")
