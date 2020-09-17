@@ -9,5 +9,18 @@ while True:
   if button_b.was_pressed():
     display.show(Image.SNAKE) #Hare doesnt exist
  
+#qn 2
+
+count=1
+while true
+    if Button_b.WAS_PRESSED():
+        count=count+1
+        if count*10:
+          print(IMAGE.RABBIT)
+        elif count*12:
+          print(str(count)+IMAGE_TURTLE)
+
+
+
 #There are multiple errors
 #You can choose to fix one question max.
